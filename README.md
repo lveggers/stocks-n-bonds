@@ -1,6 +1,7 @@
 # stocks-n-bonds
 *Stocks and bonds may break my funds*
 
+HELLO WORLD!
 A small library of some stock market analysis I've put together.
 
 ## Coming up...
