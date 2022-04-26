@@ -1,7 +1,7 @@
-# stockMarketAnalysis
+# stocks-n-bonds
 *Stocks and bonds may break my funds*
 
-A small library of some stock market analysis I put together.
+A small library of some stock market analysis I've put together.
 
 ## Coming up...
 The distance to the bottom - How does P/E-ratios indicate steep edges in the market?
