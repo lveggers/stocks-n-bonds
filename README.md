@@ -1,7 +1,6 @@
 # stocks-n-bonds
-*Stocks and bonds may break my funds*
+*Stocks and bonds may break my funds* - old Hindu proverb
 
-HELLO WORLD!
 A small library of some stock market analysis I've put together.
 
 ## Coming up...
